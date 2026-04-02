@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 
 ---
 
-act one: a **Bachelors in Computer Science (AI/ML)** at SRMUAP. the protagonist discovers her thing. it involves data, models, and an unhealthy attachment to python 🐍
+act one: a **Bachelor's in Computer Science (AI/ML)** at SRMUAP. the protagonist discovers her thing. it involves data, models, and an unhealthy attachment to python 🐍
 
-act two *(currently airing)*: **Masters in Data Science Analytics & Engineering** at **Arizona State University** 🌵 — Computing & Decision Analytics. the stakes are higher. the datasets are bigger. she's eating it up 💅
+act two *(currently airing)*: **Master's in Data Science Analytics & Engineering** at **Arizona State University** 🌵 — Computing & Decision Analytics. the stakes are higher. the datasets are bigger. she's eating it up 💅
 
 ---
 
