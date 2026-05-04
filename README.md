@@ -17,15 +17,15 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E6748E,50:E5A9A9,100:E6748E&height=220&section=header&text=Hey,%20I'm%20Sneha!&fontSize=35&fontColor=EDECDB&fontAlignY=38&font=Architects%20Daughter&desc=here%20to%20make%20data%20do%20things%20it%20didn't%20know%20it%20could%20💅&descSize=16&descAlignY=58&descColor=EDECDB&descFont=Architects%20Daughter" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E6748E,50:E5A9A9,100:E6748E&height=220&section=header&text=Hey,%20I'm%20Sneha!&fontSize=35&fontColor=EDECDB&fontAlignY=38&font=Architects%20Daughter&desc=here%20to%20make%20data%20do%20things%20it%20didn't%20know%20it%20could%20&descSize=16&descAlignY=58&descColor=EDECDB&descFont=Architects%20Daughter" width="100%"/>
 
 </div>
 
 ---
 
-act one: a **Bachelor's in Computer Science (AI/ML)** at SRMUAP. the protagonist discovers her thing. it involves data, models, and an unhealthy attachment to python 🐍
+act one: a **Bachelor's in Computer Science (AI/ML)** at SRMUAP. the protagonist discovers her thing. it involves data, models, and an unhealthy attachment to python 
 
-act two *(currently airing)*: **Master's in Data Science Analytics & Engineering** at **Arizona State University** 🌵 — Computing & Decision Analytics. the stakes are higher. the datasets are bigger. she's eating it up 💅
+act two *(currently airing)*: **Master's in Data Science Analytics & Engineering** at **Arizona State University** 🌵 — Computing & Decision Analytics. the stakes are higher. the datasets are bigger. she's eating it up 
 
 ---
 
@@ -40,11 +40,11 @@ Give me messy data, an interesting problem, and a deadline and I'm in my element
 
 ```python
 skills = {
-  "languages"  : ["Python 🐍", "SQL", "R"],
-  "ml / dl"    : ["TensorFlow", "PyTorch", "Scikit-learn", "XGBoost"],
-  "big data"   : ["Apache Spark", "PySpark", "Spark SQL"],
-  "viz & data" : ["Pandas", "NumPy", "Matplotlib", "Seaborn", "Excel"],
-  "other"      : ["Flask", "React", "Docker", "Git"]
+  "languages"  : ["Python", "SQL", "R"],
+  "ml / stats" : ["Scikit-learn", "XGBoost", "Random Forest", "Statistical modeling"],
+  "data"       : ["Pandas", "NumPy", "PySpark", "Spark SQL"],
+  "viz & bi"   : ["Tableau", "Power BI", "Streamlit", "Matplotlib", "Seaborn"],
+  "tools"      : ["Git", "Excel", "Salesforce", "PeopleSoft"]
 }
 ```
 
@@ -63,7 +63,7 @@ skills = {
 
 ## 👇 my projects
 
-scroll down, my projects are just chilling below 👇 they're free to view and I will not be taking any criticism at this time 🙂
+scroll down for my projects 👇 always happy to chat about them
 
 ---
 
